@@ -17,6 +17,6 @@ The **Color Picker Application** is a simple and interactive web tool that allow
 - **JavaScript** – Handles click events to change background color.
 
 ## 📸 Screenshot
-![Color Picker Screenshot](screenshot.png)
+![Color Picker Screenshot](ColorPicker.png)
 
 ## 📂 Project Structure
